@@ -14,5 +14,4 @@ This simple app on how to use environment variables.
 
 ### Provide environment variables via dotenv
 key-value pairs defined in .env file will be accessible by the program
-
 `npm run start:dotenv`
